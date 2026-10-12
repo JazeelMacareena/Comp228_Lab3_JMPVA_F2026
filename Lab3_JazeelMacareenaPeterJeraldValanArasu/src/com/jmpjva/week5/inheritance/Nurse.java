@@ -9,6 +9,7 @@ package com.jmpjva.week5.inheritance;
  * It extends Person, stores department and shift, assists patients,
  * and overrides performDuties().
  */
+
 public class Nurse extends Person {
 	
     private String department;

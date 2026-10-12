@@ -9,6 +9,7 @@ package com.jmpjva.week5.inheritance;
  * It extends Doctor and implements MedicalProfessional and Billable.
  * It demonstrates multiple inheritance of type through interfaces.
  */
+
 public class EmergencyDoctor extends Doctor implements MedicalProfessional, Billable {
 	
     public EmergencyDoctor(int personId, String name, int age, String specialization, double consultationFee) {
