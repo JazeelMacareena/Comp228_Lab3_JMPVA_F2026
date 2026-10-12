@@ -6,8 +6,7 @@ package com.jmpjva.week5.inheritance;
  *
  * What this code does:
  * This class represents a hospital nurse.
- * It extends Person, stores department and shift, assists patients,
- * and overrides performDuties().
+ * It extends Person, stores department and shift, assists patients, and overrides performDuties().
  */
 
 public class Nurse extends Person {

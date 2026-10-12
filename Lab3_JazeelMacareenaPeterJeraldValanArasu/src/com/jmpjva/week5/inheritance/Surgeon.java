@@ -6,8 +6,7 @@ package com.jmpjva.week5.inheritance;
  *
  * What this code does:
  * This class represents a surgeon.
- * It extends Doctor, adds surgery type and operating room details,
- * and demonstrates multilevel inheritance and method overriding.
+ * It extends Doctor, adds surgery type and operating room details, and demonstrates multilevel inheritance and method overriding.
  */
 
 public class Surgeon extends Doctor {
